@@ -82,5 +82,12 @@
     <string name="pay_title">Donation</string>
     <string name="zfb_title">About Donation</string>
     <string name="zfb_summary">Thanks, Comming Soon.....</string>
+    <string name="menu_item_choose_storage_card">SdCard</string>
+    <string name="reload">reloading</string>
+    <string name="network_setting">Network Setting</string>
+    <string name="wifi_Setting">WIFI Setting</string>
+    <string name="no_notification">No notification When Updata</string>
+    <string name="not_scan">No scan to any files in the zip, MBN, IMG format may be SD card is mounted, please uninstall the mount to restart the phone and try again</string>
+    <string name="lock">lock</string>
 
 </resources>
