@@ -22,9 +22,9 @@
     <string name="power_manager">Power Manager</string>
     <string name="dobly_title">Dobly Effect</string>
     <string name="doble_summary">The Dolby effect when using Bluetooth Headset invalid</string>
-    <string name="quite_on">Quick ON</string>
+    <string name="quite_on">Quick start</string>
     <string name="timer_power_title">Timer Power</string>
-    <string name="double_wake_title">Double-Tap Wake Screen</string>
+    <string name="double_wake_title">Double-Tap Wake Lock</string>
     <string name="double_wake_summary">In the off screen can double-click on the screen to wake up, will increase power consumption, long-term use may float off screen, you can reswitch</string>
     <string name="screen_effect_title">Screen Effect</string>
     <string name="screen_effect_summary">Adjust the screen display color color effect</string>
@@ -46,8 +46,6 @@
     <string name="boot_sound_summary">Check can turn off the power of music</string>
     <string name="reverse_back_key_title">Reverse Back Key</string>
     <string name="reverse_back_key_default">Default</string>
-    <string name="switch_title">单手模式智能分屏切换</string>
-    <string name="switch_dialog_title">鱼和熊掌无法兼得</string>
     <string name="storage_dialog_title">Storage Point Setting</string>
     <string name="screen_dpi_title">Screen Dpi</string>
     <string name="screen_dpi_summary">Default：480,Set: 300~600</string>
@@ -81,7 +79,7 @@
     <string name="oneflash_label">One Key Flash</string>
     <string name="pay_title">Donation</string>
     <string name="zfb_title">About Donation</string>
-    <string name="zfb_summary">Thanks, Comming Soon.....</string>
+    <string name="zfb_summary">Thanks for your use, If you think my ROM is helpful to you, you can donate to me! Wish You! </string>
     <string name="menu_item_choose_storage_card">SdCard</string>
     <string name="reload">reloading</string>
     <string name="network_setting">Network Setting</string>
@@ -89,5 +87,15 @@
     <string name="no_notification">No notification When Updata</string>
     <string name="not_scan">No scan to any files in the zip, MBN, IMG format may be SD card is mounted, please uninstall the mount to restart the phone and try again</string>
     <string name="lock">lock</string>
+    <string name="loading_list">loading...</string>
+    <string name="pre_keyboard_title">KeyBoard Light</string>
+    <string name="pre_keyboard_light_title">KeyBoard Light Brightness</string>
+    <string name="pre_keyboard_light_values"> Values</string>
+    <string name="pre_keyboard_light_summary">Manually adjust the keyboard light brightness, range 10~255</string>
+    <string name="pre_keyboard_light_auto_title">KeyBoard Light Auto</string>
+    <string name="pre_keyboard_light_auto_summary">Let the keyboard light to follow the screen brightness automatic adjustment</string>
+    <string name="pre_eye_protector_shortcut">Eye Protector shortcut</string>
+    <string name="pre_eye_protector_shortcut_summ">Send Eye Protector shortcut in Home</string>
+    <string name="send_short_success">send short success!</string>
 
 </resources>
