@@ -114,8 +114,8 @@
         <item>1</item>
     </string-array>
     <string-array name="storage_entries">
-        <item>mobile phone</item>
-        <item>SDCARD</item>
+        <item>internal sdcard</item>
+        <item>external sdcard</item>
     </string-array>
     <string-array name="key_values">
         <item>0</item>
@@ -123,7 +123,12 @@
     </string-array>
     <string-array name="key_entries">
         <item>Defualt</item>
-        <item>back and Menu Key reverse</item>
+        <item>Back and Menu Key reverse</item>
     </string-array>
-
+    <string-array name="reboot_array">
+        <item>reboot</item>
+        <item>reboot to Recovery</item>
+        <item>quick reboot</item>
+        <item>shutdown</item>
+    </string-array>
 </resources>

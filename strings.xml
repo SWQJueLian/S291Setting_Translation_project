@@ -97,6 +97,7 @@
     <string name="pre_eye_protector_shortcut">Eye Protector shortcut</string>
     <string name="pre_eye_protector_shortcut_summ">Send Eye Protector shortcut in Home</string>
     <string name="send_short_success">send shortcut success!</string>
+    <string name="send_short_fail">send shortcut fail!</string>
     <string name="notifition_aas_toast_title">Have Qusetion?Click me and see answer.</string>
     <string name="notifition_aas_content_title">Question and Answer</string>
     <string name="notifition_aas_content_summ">Have Qusetion?Click me and see answer.</string>
@@ -104,4 +105,16 @@
     <string name="changelog_cannot_write_data">cannot write data into System.</string>
     <string name="changelog_show_toast">you turn on changelog notifition show when update system</string>
 	<string name="onekeyflash_toast">done!</string>
+	<string name="dialog_reboot_to_work_title">you must be reboot let it work!</string>
+    <string name="toast_switch_camera_success">switch camera_success</string>
+    <string name="input_value_not_allow_empty">value not allow empty</string>
+    <string name="input_value_error">values range 300~600.</string>
+    <string name="pre_dpi_summ">get："%1$s", default: 480.</string>
+    <string name="dialog_switching">switching...</string>
+    <string name="mipop_white_clean_complete">clean white list success</string>
+    <string name="dialog_reboot_for_what_title">are you want to "%1$s"?</string>
+    <string name="notifition_update_success">update system success!</string>
+    <string name="notifition_update_success_summ">click here and show changelo</string>
+    <string name="toast_update_success">you success update system!</string>
+
 </resources>
