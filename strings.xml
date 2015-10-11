@@ -81,7 +81,7 @@
     <string name="pay_title">Donate</string>
     <string name="zfb_title">About Donate</string>
     <string name="zfb_summary">Thanks for your use, If you think my ROM is helpful to you, you can donate to me! Wish You! </string>
-    <string name="menu_item_choose_storage_card">sdcard</string>
+    <string name="menu_item_choose_storage_card">choose sdcard</string>
     <string name="reload">reload</string>
     <string name="network_setting">Network Setting</string>
     <string name="wifi_Setting">WIFI Setting</string>
@@ -124,5 +124,6 @@
     <string name="screenshot_sound">Turn OFF screenshot sound</string>
     <string name="screenshot_sound_summ">Turn OFF screenshot sound even if not silen mode</string>
     <string name="one_key_flash_summ">flash rom or first screen or recovery system or bootanimation</string>
+    <string name="one_key_flash_dialog_title">you want?</string>
 
 </resources>
