@@ -141,7 +141,7 @@
         <item>nothing</item>
     </string-array>
     <string-array name="onkeyflash_entries">
-        <item>first screen</item>
+        <item>flash first screen</item>
         <item>flash recovery system</item>
         <item>flash rom or ota</item>
         <item>replace bootanimation</item>
